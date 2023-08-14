@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-14T14:02:54Z" name="Default suite" finished-at="2023-08-14T14:03:44Z" duration-ms="50375">
+    <groups>
+    </groups>
+    <test started-at="2023-08-14T14:02:54Z" name="Default test" finished-at="2023-08-14T14:03:44Z" duration-ms="50375">
+      <class name="org.testing.TestScripts.TC1">
+        <test-method is-config="true" signature="InvokeBrowser()[pri:0, instance:org.testing.TestScripts.TC1@7fbdb894]" started-at="2023-08-14T10:02:54Z" name="InvokeBrowser" finished-at="2023-08-14T10:02:59Z" duration-ms="5648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method signature="Login()[pri:0, instance:org.testing.TestScripts.TC1@7fbdb894]" started-at="2023-08-14T10:02:59Z" name="Login" finished-at="2023-08-14T10:03:44Z" duration-ms="44568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.TC1@7fbdb894]" started-at="2023-08-14T10:03:44Z" name="CloseBrowser" finished-at="2023-08-14T10:03:44Z" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
